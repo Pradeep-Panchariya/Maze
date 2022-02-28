@@ -1,0 +1,29 @@
+Save maze.py file on the desktop.
+create a empty txt file on the desktop and rename it maze1.txt.
+open maze1.txt file
+paste the below content in the maze1.txt file
+######## ####B####
+### #### ##     ##
+### ####     #####
+#      # #########
+#### ###     #####
+####   #####   ###
+#                #
+A ################
+
+save the file.
+
+I hope you already have python installed on your system
+open the CMD (command prompt) and type the below line
+python maze.py maze1.txt
+if everthing went good, this program will run and the one image file will also save on the desktop
+if you find any issue regarding no moudle name PIL found then please get installed this module.
+if still you are not able to install PIL module the please comment the last line in the code
+m.output_image("maze.png", show_explored=True) (comment this line and run the code it will work)
+
+if you want to create your own source and destination in the maze1.txt file you can modify it and create your own also.
+
+for any query send an email:
+panchariya11@gmail.com
+
+Happy Learning
