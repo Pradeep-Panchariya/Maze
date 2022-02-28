@@ -14,7 +14,7 @@ A ################
 save the file.
 
 I hope you already have python installed on your system
-open the CMD (command prompt) and type the below line
+open the CMD (command prompt) and change your current directory to the desktop then type the below line
 python maze.py maze1.txt
 if everthing went good, this program will run and the one image file will also save on the desktop
 if you find any issue regarding no moudle name PIL found then please get installed this module.
